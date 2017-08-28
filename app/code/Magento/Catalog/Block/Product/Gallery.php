@@ -137,7 +137,6 @@ class Gallery extends \Magento\Framework\View\Element\Template
         }
         return $previous;
     }
-
     /**
      * @return Image|false
      */
